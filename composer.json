@@ -1,0 +1,14 @@
+{
+    "name": "dung/calling-fonts",
+    "description": "Fonts of Dung",
+    "type": "Source",
+    "license": "dung",
+    "authors": [
+        {
+            "name": "NguyenXuanDung",
+            "email": "dung.nx@neo-lab.vn"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
