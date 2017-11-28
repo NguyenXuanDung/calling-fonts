@@ -9,6 +9,6 @@
             "email": "dung.nx@neo-lab.vn"
         }
     ],
-    "minimum-stability": "dev-master",
+    "minimum-stability": "dev",
     "require": {}
 }
